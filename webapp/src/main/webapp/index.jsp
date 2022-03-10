@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, This is auto image creation in ansible and push to dockerHub </h1>
+   <h1> Thankyou, This is auto image creation in ansible and push to dockerHub! </h1>
 
   
 </form>
