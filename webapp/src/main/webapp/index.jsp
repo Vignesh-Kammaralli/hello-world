@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, This didnt work! </h1>
+   <h1> Thankyou, It works now after editing command in Jenkins Job! </h1>
 
   
 </form>
